@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610491176 source:d:\applications\consoleapp\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
