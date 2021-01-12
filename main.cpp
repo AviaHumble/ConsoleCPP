@@ -28,7 +28,7 @@ int main(){
     }
     if(choice == "n" && randNum > 50) {
         cout << "Congrats, you won! The number was: " << randNum;
-    } else if(choice == "Y" && randNum < 50){
+    } else if(choice == "n" && randNum < 50){
         cout << "Incorrect! The number was: " << randNum << ". You were " << randNum - 50 << " away.";
     }
 }
